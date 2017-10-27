@@ -1,0 +1,944 @@
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\App.xbf
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.xr.xml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.exe
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.pdb
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\resources.pri
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\StarWarsUWP.exe
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.build.appxrecipe
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Core.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Windows.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Console.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrjit.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrcompression.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.AppContext.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Buffers.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.dll
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pdb
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pri
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pdb
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pri
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csprojResolveAssemblyReference.cache
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.cs
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xaml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xbf
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.CoreCompileInputs.cache
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.exe
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.pdb
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.GenerateResource.Cache
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titaanje-Laptop\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xaml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xbf
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\App.xbf
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.xr.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.exe
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\resources.pri
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\StarWarsUWP.exe
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.build.appxrecipe
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Core.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Windows.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Console.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrjit.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrcompression.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.AppContext.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Buffers.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pri
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pri
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csprojResolveAssemblyReference.cache
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.CoreCompileInputs.cache
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.exe
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.GenerateResource.Cache
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\App.xbf
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.xr.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.exe
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\resources.pri
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\StarWarsUWP.exe
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.build.appxrecipe
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Core.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Windows.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Console.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrjit.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrcompression.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.AppContext.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Buffers.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Data.Common.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pri
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pri
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csprojResolveAssemblyReference.cache
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xaml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xbf
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.CoreCompileInputs.cache
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.exe
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.GenerateResource.Cache
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\App.xbf
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Views\MainView.xbf
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.xr.xml
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.exe
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.pdb
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\resources.pri
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\AppxManifest.xml
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Core\StarWarsUWP.exe
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWarsUWP.build.appxrecipe
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.CSharp.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Extensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Core.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Windows.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Linq.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.Serialization.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Handles.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Timer.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Console.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Sockets.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrjit.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\clrcompression.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.Uri.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.AppContext.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Buffers.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Immutable.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Collections.Specialized.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ComponentModel.TypeConverter.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Data.Common.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Expressions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Parallel.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Linq.Queryable.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.Requests.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ObjectModel.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Context.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Formatters.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Claims.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Security.Principal.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XDocument.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.dll
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pdb
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.DAL.pri
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pdb
+C:\StarWarsUWP\StarWarsUWP\bin\x86\Debug\StarWars.Domain.pri
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csprojResolveAssemblyReference.cache
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.i.cs
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.g.cs
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\Views\MainView.g.i.cs
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\Views\MainView.g.cs
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xaml
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\Views\MainView.xaml
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\App.xbf
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\Views\MainView.xbf
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.CoreCompileInputs.cache
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.exe
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.pdb
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.Primitives.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\StarWarsUWP.csproj.GenerateResource.Cache
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\layout.resfiles.intermediate
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\StarWarsUWP\StarWarsUWP\obj\x86\Debug\ProjectArchitectures.txt

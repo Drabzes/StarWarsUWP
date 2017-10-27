@@ -1,0 +1,63 @@
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.pri
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.pri
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\priconfig.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\priconfig.xml.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\layout.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\layout.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\resources.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\resources.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\pri.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\pri.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\qualifiers.txt
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.DAL\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.pri
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.pri
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\priconfig.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\priconfig.xml.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\layout.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\layout.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\resources.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\resources.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\pri.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\pri.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\qualifiers.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.DAL\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.dll
+C:\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.pdb
+C:\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.DAL.pri
+C:\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.dll
+C:\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.pdb
+C:\StarWarsUWP\StarWars.DAL\bin\Debug\StarWars.Domain.pri
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.csprojResolveAssemblyReference.cache
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.csproj.CoreCompileInputs.cache
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.dll
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\StarWars.DAL.pdb
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\priconfig.xml
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\priconfig.xml.intermediate
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\layout.resfiles
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\layout.resfiles.intermediate
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\resources.resfiles
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\resources.resfiles.intermediate
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\pri.resfiles
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\pri.resfiles.intermediate
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\qualifiers.txt
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\qualifiers.txt.intermediate
+C:\StarWarsUWP\StarWars.DAL\obj\Debug\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,52 @@
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pri
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\priconfig.xml
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\priconfig.xml.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\layout.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\layout.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\resources.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\resources.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\pri.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\pri.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\qualifiers.txt
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\AppDev\NET\MVVM - Databinding (week2)\Oefeningen\StarWarsUWP\StarWars.Domain\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pri
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.dll
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.pdb
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\priconfig.xml
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\priconfig.xml.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\layout.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\layout.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\resources.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\resources.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\pri.resfiles
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\pri.resfiles.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\qualifiers.txt
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Titaantje\OneDrive\Pxl\School\AppDev\NET\MVVM - Databinding (week3)\MVVN Oefening\StarWarsUWP\StarWars.Domain\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.dll
+C:\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pdb
+C:\StarWarsUWP\StarWars.Domain\bin\Debug\StarWars.Domain.pri
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.csprojResolveAssemblyReference.cache
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.csproj.CoreCompileInputs.cache
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.dll
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\StarWars.Domain.pdb
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\priconfig.xml
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\priconfig.xml.intermediate
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\layout.resfiles
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\layout.resfiles.intermediate
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\resources.resfiles
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\resources.resfiles.intermediate
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\pri.resfiles
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\pri.resfiles.intermediate
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\qualifiers.txt
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\qualifiers.txt.intermediate
+C:\StarWarsUWP\StarWars.Domain\obj\Debug\MultipleQualifiersPerDimensionFound.txt

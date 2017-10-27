@@ -1,0 +1,7 @@
+C:\StarWarsUWP\StarWars.DAL\StarWars.DAL.csproj;neutral
+C:\StarWarsUWP\StarWars.DAL\StarWars.DAL.csproj;neutral
+C:\StarWarsUWP\StarWars.Domain\StarWars.Domain.csproj;neutral
+C:\StarWarsUWP\StarWars.Domain\StarWars.Domain.csproj;neutral
+C:\StarWarsUWP\StarWars.Domain\StarWars.Domain.csproj;neutral
+C:\StarWarsUWP\StarWarsUWP\StarWarsUWP.csproj;x86
+C:\StarWarsUWP\UnitTestProject\UnitTestProject.csproj;x86
